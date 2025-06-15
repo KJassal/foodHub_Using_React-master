@@ -1,0 +1,96 @@
+.nav-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 5rem;
+    list-style: none;
+}
+a {
+    text-decoration: none !important;
+}
+.nav-bar{
+    display: flex;
+    gap: 10rem;
+}
+.brand{
+    background: white;
+    border: 1px solid black;
+    border-radius: 32%;
+    padding: 1rem;
+}
+.herosection{
+    display: flex;
+    gap: 6rem;
+    margin: 6rem;
+    margin-top: 2rem;
+}
+.cardImg{
+    background : white ;
+    height : 3rem ;
+    width : 3rem  ;
+    border-radius : 40% ;
+    margin-left: 12rem;
+    margin-top: 0.5rem;
+}
+.logoimg{
+    height: 2rem;
+    gap: 3rem;
+}
+.container-card{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 3rem;
+    padding: 2rem;
+    gap: 5rem;
+    
+}
+.cards{
+    height: 3rem;
+    width: 21rem;
+    background: black !important;
+    color: white !important;
+}
+.head-roll{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 3rem;
+    background: black;
+    color: white;
+}
+.btns{
+    display: flex;
+    gap: 5rem;
+    
+}
+.contain{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1rem;
+    margin: 1rem;
+}
+.icon{
+    height: 4rem;
+    width: 5rem;
+}
+.box h1{
+    font-size: 20px;
+}
+.logincontainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;    
+    gap: 2rem;
+}
+.width{
+    width: 20rem;
+}
+.googleSignIn{
+    width: 40%;
+    background: black;
+    color: white;
+    border-radius: 8%;
+}
